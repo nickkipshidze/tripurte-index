@@ -4,6 +4,12 @@ YouTube videos index and their `.blend` files.
 
 ---
 
+### Industrial nuts and screws
+
+- **Video**: https://www.youtube.com/watch?v=NRI3DAvMUOQ
+- **Blender file**: [industrial.blend](./models/industrial.blend)
+- **Description**: Nut and screw model animation.
+
 ### Simple humanoid model
 
 - **Video**: https://www.youtube.com/watch?v=Ziy_y4drOig
