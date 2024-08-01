@@ -4,6 +4,12 @@ YouTube videos index and their `.blend` files.
 
 ---
 
+### Mobius strip
+
+- **Video**: https://www.youtube.com/watch?v=Yxrvo4Rr-Hs
+- **Blender file**: [mobius-strip.blend](./models/mobius-strip.blend)
+- **Description**: Animation of morphing a cube into the mobius strip.
+
 ### Industrial nuts and screws
 
 - **Video**: https://www.youtube.com/watch?v=NRI3DAvMUOQ
