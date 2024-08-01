@@ -4,6 +4,12 @@ YouTube videos index and their `.blend` files.
 
 ---
 
+### Simple humanoid model
+
+- **Video**: https://www.youtube.com/watch?v=Ziy_y4drOig
+- **Blender file**: **Not found**
+- **Description**: Simple remeshed low-poly humanoid rigged model.
+
 ### Bouncy balls
 
 - **Video**: https://www.youtube.com/watch?v=imGmEmeOfPA
