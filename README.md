@@ -4,6 +4,12 @@ YouTube videos index and their `.blend` files.
 
 ---
 
+### Cubes with shaders
+
+- **Video**: https://studio.youtube.com/video/Di3IvVIewSU/edit
+- **Blender file**: [shaded-cubes.blend](./models/shaded-cubes.blend)
+- **Description**: Just two cubes with some basic shaders.
+
 ### Mobius strip
 
 - **Video**: https://www.youtube.com/watch?v=Yxrvo4Rr-Hs
