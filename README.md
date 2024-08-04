@@ -4,9 +4,15 @@ YouTube videos index and their `.blend` files.
 
 ---
 
+### Better nuts and screws
+
+- **Video**: https://www.youtube.com/watch?v=oYzcHfLS_cI
+- **Blender file**: [shaded-screws.blend](./models/shaded-screws.blend)
+- **Description**: Same screws and nuts but with steel textures and shaders. 
+
 ### Cubes with shaders
 
-- **Video**: https://studio.youtube.com/video/Di3IvVIewSU/edit
+- **Video**: https://www.youtube.com/watch?v=Di3IvVIewSU
 - **Blender file**: [shaded-cubes.blend](./models/shaded-cubes.blend)
 - **Description**: Just two cubes with some basic shaders.
 
