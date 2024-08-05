@@ -4,6 +4,12 @@ YouTube videos index and their `.blend` files.
 
 ---
 
+### Cloth physics attempt #1
+
+- **Video**: https://www.youtube.com/watch?v=PLKAxnzCvmU
+- **Blender file**: [attempt-cloth.blend](./models/attempt-cloth.blend)
+- **Description**: Cloth physics using subsurface-d plain with some basic procedural textures.
+
 ### Better nuts and screws
 
 - **Video**: https://www.youtube.com/watch?v=oYzcHfLS_cI
