@@ -4,6 +4,12 @@ YouTube videos index and their `.blend` files.
 
 ---
 
+### Y'know what, weekends are for resting
+
+- **Video**: https://www.youtube.com/watch?v=zVVfA5RZWyc
+- **Blender file**: [movie-shapes.blend](./models/movie-shapes.blend)
+- **Description**: 3D version of the original Telepurte's animation.
+
 ### Cloth physics attempt #1
 
 - **Video**: https://www.youtube.com/watch?v=PLKAxnzCvmU
