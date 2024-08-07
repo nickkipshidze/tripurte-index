@@ -4,6 +4,12 @@ YouTube videos index and their `.blend` files.
 
 ---
 
+### More screws and nuts
+
+- **Video**: https://www.youtube.com/watch?v=YsTo4Jdfaas
+- **Blender file**: [more-industrial.blend](./models/more-industrial.blend)
+- **Description**: More shaded nuts and screws animation.
+
 ### Y'know what, weekends are for resting
 
 - **Video**: https://www.youtube.com/watch?v=zVVfA5RZWyc
