@@ -4,6 +4,12 @@ YouTube videos index and their `.blend` files.
 
 ---
 
+### Cat model fun demo
+
+- **Video**: https://www.youtube.com/watch?v=GoEdAwC3bB0
+- **Blender file**: [cat-model.blend](./models/cat-model.blend)
+- **Description**: Just a weird cat me and my sister made.
+
 ### More screws and nuts
 
 - **Video**: https://www.youtube.com/watch?v=YsTo4Jdfaas
