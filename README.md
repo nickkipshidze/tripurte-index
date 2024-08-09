@@ -4,6 +4,12 @@ YouTube videos index and their `.blend` files.
 
 ---
 
+### Cat cheese
+
+- **Video**: https://www.youtube.com/watch?v=avYvSymF2Eo
+- **Blender file**: [cat-cheese.blend](./models/cat-cheese.blend)
+- **Description**: Cat cheese.
+
 ### Cat model fun demo
 
 - **Video**: https://www.youtube.com/watch?v=GoEdAwC3bB0
