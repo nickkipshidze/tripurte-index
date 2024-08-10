@@ -4,6 +4,12 @@ YouTube videos index and their `.blend` files.
 
 ---
 
+### Cheese?
+
+- **Video**: https://www.youtube.com/watch?v=PkrwrP2-lFs
+- **Blender file**: [more-cheese.blend](./models/more-cheese.blend)
+- **Description**: Cheese as a rigid body.
+
 ### Cat cheese
 
 - **Video**: https://www.youtube.com/watch?v=avYvSymF2Eo
