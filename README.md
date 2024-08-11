@@ -4,6 +4,12 @@ YouTube videos index and their `.blend` files.
 
 ---
 
+### Silly low-poly character animation
+
+- **Video**: https://www.youtube.com/watch?v=uBAe4CiflQA
+- **Blender file**: [get-up.blend](./models/get-up.blend)
+- **Description**: Just some very bad animation.
+
 ### Cheese?
 
 - **Video**: https://www.youtube.com/watch?v=PkrwrP2-lFs
