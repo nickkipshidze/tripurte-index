@@ -4,6 +4,12 @@ YouTube videos index and their `.blend` files.
 
 ---
 
+### Discovered hair!
+
+- **Video**: https://www.youtube.com/watch?v=rb3grOtT1-Y
+- **Blender file**: [fur.blend](./models/fur.blend)
+- **Description**: Blender fur physics test animation.
+
 ### Silly low-poly character animation
 
 - **Video**: https://www.youtube.com/watch?v=uBAe4CiflQA
