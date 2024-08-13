@@ -4,6 +4,12 @@ YouTube videos index and their `.blend` files.
 
 ---
 
+### Attempt at glass
+
+- **Video**: https://www.youtube.com/watch?v=n0lVTQO84Ss
+- **Blender file**: [glass.blend](./models/glass.blend)
+- **Description**: Glass shaders on Cycles renderer.
+
 ### Discovered hair!
 
 - **Video**: https://www.youtube.com/watch?v=rb3grOtT1-Y
