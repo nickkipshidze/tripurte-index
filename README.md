@@ -4,6 +4,12 @@ YouTube videos index and their `.blend` files.
 
 ---
 
+### Working on my first silly character
+
+- **Video**: https://www.youtube.com/watch?v=VR5wo4v2Yk8
+- **Blender file**: [scarf.blend](./models/scarf.blend)
+- **Description**: My first low quality "original" character.
+
 ### Attempt at glass
 
 - **Video**: https://www.youtube.com/watch?v=n0lVTQO84Ss
