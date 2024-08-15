@@ -4,10 +4,16 @@ YouTube videos index and their `.blend` files.
 
 ---
 
+### Red button
+
+- **Video**: https://www.youtube.com/watch?v=pKJ2aEAFSUI
+- **Blender file**: [button.blend](./models/button.blend)
+- **Description**: Second attempt at an button animation.
+
 ### Regular button animation
 
 - **Video**: https://www.youtube.com/watch?v=IRFt264CDYo
-- **Blender file**: [button.blend](./models/button.blend)
+- **Blender file**: **Not found**
 - **Description**: First attempt at an button animation.
 
 ### Working on my first silly character
