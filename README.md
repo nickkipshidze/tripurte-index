@@ -4,6 +4,12 @@ YouTube videos index and their `.blend` files.
 
 ---
 
+### Dummy starts working out
+
+- **Video**: https://www.youtube.com/watch?v=TGTlDSx1ZHY
+- **Blender file**: **Not found**
+- **Description**: Rocky reference!
+
 ### Red button
 
 - **Video**: https://www.youtube.com/watch?v=pKJ2aEAFSUI
