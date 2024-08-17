@@ -4,6 +4,12 @@ YouTube videos index and their `.blend` files.
 
 ---
 
+### Ball pit
+
+- **Video**: https://www.youtube.com/watch?v=LGpEKQZhnoU
+- **Blender file**: [ball-pit.blend](./models/ball-pit.blend)
+- **Description**: Another rigid body simulation.
+
 ### Dummy starts working out
 
 - **Video**: https://www.youtube.com/watch?v=TGTlDSx1ZHY
