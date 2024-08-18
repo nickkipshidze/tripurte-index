@@ -4,6 +4,12 @@ YouTube videos index and their `.blend` files.
 
 ---
 
+### Making skulls until I get better
+
+- **Video**: https://www.youtube.com/watch?v=pMJZ2lQDJ9M
+- **Blender file**: [skull-1.blend](./models/skull-1.blend), [skull-2.blend](./models/skull-2.blend), [skull-3.blend](./models/skull-3.blend)
+- **Description**: Three attempts at sculpting a skull.
+
 ### Ball pit
 
 - **Video**: https://www.youtube.com/watch?v=LGpEKQZhnoU
