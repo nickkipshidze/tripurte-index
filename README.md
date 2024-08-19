@@ -4,6 +4,12 @@ YouTube videos index and their `.blend` files.
 
 ---
 
+### Industrial nuts and screws 2.0
+
+- **Video**: https://www.youtube.com/watch?v=kIJrYVF1zeM
+- **Blender file**: [more-more-industrial.blend](./models/more-more-industrial.blend)
+- **Description**: Nuts and screws animation but with a little bit more effort.
+
 ### Making skulls until I get better
 
 - **Video**: https://www.youtube.com/watch?v=pMJZ2lQDJ9M
