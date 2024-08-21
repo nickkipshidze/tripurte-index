@@ -4,6 +4,12 @@ YouTube videos index and their `.blend` files.
 
 ---
 
+### Ball on rails
+
+- **Video**: https://www.youtube.com/watch?v=navaTK2npcQ
+- **Blender file**: [ball-on-rails.blend](./models/ball-on-rails.blend)
+- **Description**: Just a ball on a roughly made rail track.
+
 ### Industrial nuts and screws 2.0
 
 - **Video**: https://www.youtube.com/watch?v=kIJrYVF1zeM
