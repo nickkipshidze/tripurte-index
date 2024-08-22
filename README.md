@@ -4,6 +4,12 @@ YouTube videos index and their `.blend` files.
 
 ---
 
+### How a potato works
+
+- **Video**: https://www.youtube.com/watch?v=QzS4aJs4eyE
+- **Blender file**: [potato.blend](./models/potato.blend)
+- **Description**: Just a silly joke.
+
 ### Ball on rails
 
 - **Video**: https://www.youtube.com/watch?v=navaTK2npcQ
