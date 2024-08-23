@@ -4,6 +4,12 @@ YouTube videos index and their `.blend` files.
 
 ---
 
+### Steel ball on a spiral
+
+- **Video**: https://www.youtube.com/watch?v=066A8Ft-SH4
+- **Blender file**: [spiral.blend](./models/spiral.blend)
+- **Description**: Yet another rigid body simulation.
+
 ### How a potato works
 
 - **Video**: https://www.youtube.com/watch?v=QzS4aJs4eyE
