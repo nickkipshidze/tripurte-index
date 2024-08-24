@@ -4,6 +4,12 @@ YouTube videos index and their `.blend` files.
 
 ---
 
+### Train of thoughts - 3D visuals
+
+- **Video**: https://www.youtube.com/watch?v=28TMNQgtb90
+- **Blender file**: [train-of-thoughts.blend](./models/train-of-thoughts.blend)
+- **Description**: Cool thing made with geometry nodes.
+
 ### Steel ball on a spiral
 
 - **Video**: https://www.youtube.com/watch?v=066A8Ft-SH4
