@@ -4,6 +4,12 @@ YouTube videos index and their `.blend` files.
 
 ---
 
+### Marble race demo
+
+- **Video**: https://www.youtube.com/watch?v=YK1bQCEswPU
+- **Blender file**: [marble-race.blend](./models/marble-race.blend)
+- **Description**: Rmake of the "ball on rails" idea.
+
 ### Train of thoughts - 3D visuals
 
 - **Video**: https://www.youtube.com/watch?v=28TMNQgtb90
