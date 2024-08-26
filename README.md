@@ -4,6 +4,12 @@ YouTube videos index and their `.blend` files.
 
 ---
 
+### Cloth physics attempt #2
+
+- **Video**: https://www.youtube.com/watch?v=Aae-0O7VYV0
+- **Blender file**: [attempt-cloth-2.blend](./models/attempt-cloth-2.blend)
+- **Description**: Second attempt at cloth, now slightly better!
+
 ### Marble race demo
 
 - **Video**: https://www.youtube.com/watch?v=YK1bQCEswPU
