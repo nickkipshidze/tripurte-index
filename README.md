@@ -4,6 +4,12 @@ YouTube videos index and their `.blend` files.
 
 ---
 
+### Marble race demo, but better!
+
+- **Video**: https://www.youtube.com/watch?v=mPmZbW6J3Bw
+- **Blender file**: [marble-race-full.blend](./models/marble-race-full.blend)
+- **Description**: The full in marble-race-full stands for full DEMO. At the time of writing this, I have yet to make the final full version. The reason is because I forgot, lol.
+
 ### Cloth physics attempt #2
 
 - **Video**: https://www.youtube.com/watch?v=Aae-0O7VYV0
