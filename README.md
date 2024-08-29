@@ -4,6 +4,12 @@ YouTube videos index and their `.blend` files.
 
 ---
 
+### Look at this cool cube
+
+- **Video**: https://www.youtube.com/watch?v=idCv-HV2bcM
+- **Blender file**: **Not found**
+- **Description**: Just a cube.
+
 ### Marble race demo, but better!
 
 - **Video**: https://www.youtube.com/watch?v=mPmZbW6J3Bw
