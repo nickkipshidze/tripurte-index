@@ -8,7 +8,7 @@ YouTube videos index and their `.blend` files.
 
 - **Video**: https://www.youtube.com/watch?v=idCv-HV2bcM
 - **Blender file**: **Not found**
-- **Description**: Just a cube.
+- **Description**: Just a cube. I was lazy.
 
 ### Marble race demo, but better!
 
