@@ -8,7 +8,7 @@ YouTube videos index and their `.blend` files.
 
 - **Video**: https://www.youtube.com/watch?v=Ll21TmEawoQ
 - **Blender file**: [cake.blend](./models/cake.blend)
-- **Description**: Cake inspired by a real cake from a very cool game.
+- **Description**: Cake inspired by a cake from a very cool game.
 
 ### Look at this cool cube
 
