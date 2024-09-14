@@ -4,6 +4,12 @@ YouTube videos index and their `.blend` files.
 
 ---
 
+### Silly walk cycle
+
+- **Video**: https://www.youtube.com/watch?v=W6CdM1I1luc
+- **Blender file**: **Not found**
+- **Description**: Object constraints and paths.
+
 ### My first Unity game
 
 - **Video**: https://www.youtube.com/watch?v=02SfHQu2ZkA
