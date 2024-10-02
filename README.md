@@ -4,6 +4,10 @@ YouTube videos index and their `.blend` files.
 
 ---
 
+### I made pong 2.0 in Godot
+
+- **Video**: https://www.youtube.com/watch?v=7Pb7oEnmTaM
+
 ### Silly walk cycle
 
 - **Video**: https://www.youtube.com/watch?v=W6CdM1I1luc
