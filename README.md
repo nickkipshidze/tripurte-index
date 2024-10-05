@@ -8,6 +8,7 @@ YouTube videos index and their `.blend` files.
 
 - **Video**: https://www.youtube.com/watch?v=UyIRdHltw0w
 - **Blender file**: [ball-cat.blend](./models/ball-cat.blend)
+- **Description**: A sphere with a :3 on it.
 
 ### I made pong 2.0 in Godot
 
