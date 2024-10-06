@@ -4,6 +4,10 @@ YouTube videos index and their `.blend` files.
 
 ---
 
+### Dummy dance!
+
+- **Video**: https://www.youtube.com/watch?v=ngZoNxjxPe8
+
 ### Ball cat
 
 - **Video**: https://www.youtube.com/watch?v=UyIRdHltw0w
