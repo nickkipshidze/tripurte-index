@@ -7,6 +7,7 @@ YouTube videos index and their `.blend` files.
 ### Dummy dance!
 
 - **Video**: https://www.youtube.com/watch?v=ngZoNxjxPe8
+- **Blender file**: [dummy-dance.blend](./models/dummy-dance.blend)
 
 ### Ball cat
 
