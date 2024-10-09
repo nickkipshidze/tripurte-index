@@ -8,6 +8,7 @@ YouTube videos index and their `.blend` files.
 
 - **Video**: https://www.youtube.com/watch?v=ngZoNxjxPe8
 - **Blender file**: [dummy-dance.blend](./models/dummy-dance.blend)
+- **Description**: Playing with Mixamo animations.
 
 ### Ball cat
 
